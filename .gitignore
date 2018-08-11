@@ -1,3 +1,5 @@
 **/__pycache__
 Postman/
 instance/
+.pytest_cache/
+.coverage
